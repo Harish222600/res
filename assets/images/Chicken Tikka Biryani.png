@@ -1,0 +1,503 @@
+w6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{4a749a1a-b799-41b4-a328-33a7b2355e76}",
+"programId": "0000515a91196ef5574fa2111d2944e16a320000ffff",
+"compatFlags": "4",
+"restoreAction": "RootDirPath|c:\\programdata\\package cache\\{4a749a1a-b799-41b4-a328-33a7b2355e76}",
+"files" : [{"productName": "microsoft asp.net core 7.0.7 - shared framework (x64)",
+"originalFileName": "aspnetcoresharedframeworkbundle-x64.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "7.0.7.23274",
+"binFileVersion": "7.0.7.23274",
+"path": "%programdata%\\package cache\\{4a749a1a-b799-41b4-a328-33a7b2355e76}\\aspnetcoresharedframe%USERNAME%bundle-x64.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{4757C19B-4CE3-418C-91D2-E15E938091FB}",
+"programId": "000054b8b85a04620422db8e10a46796a9da00000904",
+"compatFlags": "40",
+"restoreAction": "RootDirPath|C:\\Program Files (x86)\\Epic Games\\Launcher\\Portal\\Extras\\EOS\\",
+"files" : [{"productName": "crashreportclient",
+"originalFileName": "crashreportclient.exe",
+"companyName": "epic games, inc.",
+"binProductVersion": "4.23.0.0",
+"binFileVersion": "4.23.0.0",
+"path": "%programfiles(x86)%\\epic games\\epic online services\\engine\\binaries\\win32\\crashreportclient.exe"
+},{"productName": "epic online services",
+"originalFileName": "epiconlineservices.exe",
+"companyName": "epic games, inc.",
+"binProductVersion": "12.13.0.0",
+"binFileVersion": "15.13.146.0",
+"path": "%programfiles(x86)%\\epic games\\epic online services\\epiconlineservices.exe"
+},{"productName": "epic online services ui helper",
+"originalFileName": "epiconlineservicesuihelper.exe",
+"companyName": "epic games, inc.",
+"binProductVersion": "1.2.2.0",
+"binFileVersion": "1.2.2.0",
+"path": "%programfiles(x86)%\\epic games\\epic online services\\epiconlineservicesuihelper.exe"
+},{"productName": "eos install helper",
+"originalFileName": "epiconlineservicesinstallhelper.exe",
+"companyName": "epic games, inc.",
+"binProductVersion": "1.4.2.0",
+"binFileVersion": "1.4.2.0",
+"path": "%programfiles(x86)%\\epic games\\epic online services\\epiconlineservicesinstallhelper.exe"
+},{"productName": "eos user helper",
+"originalFileName": "epiconlineservicesuserhelper.exe",
+"companyName": "epic games, inc.",
+"binProductVersion": "1.4.2.0",
+"binFileVersion": "1.4.2.0",
+"path": "%programfiles(x86)%\\epic games\\epic online services\\epiconlineservicesuserhelper.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{AC76BA86-1033-FFFF-7760-BC15014EA700}",
+"programId": "0000581d7b00f06dd37ed0144d56ef5defb900000000",
+"compatFlags": "0",
+"restoreAction": "AddPlaceholderCustom|FWLINK~2238218;RootDirPath|C:\\Program Files\\Adobe\\Acrobat DC\\",
+"files" : [{"productName": "adobe reader and acrobat manager",
+"originalFileName": "adobearm.exe",
+"companyName": "adobe inc.",
+"binProductVersion": "1.824.460.1067",
+"binFileVersion": "1.824.460.1067",
+"path": "%commonprogramfiles(x86)%\\adobe\\arm\\1.0\\adobearm.exe"
+},{"companyName": "adobe inc.",
+"binProductVersion": "1.824.460.1067",
+"binFileVersion": "1.824.460.1067",
+"path": "%commonprogramfiles(x86)%\\adobe\\arm\\1.0\\adobearmhelper.exe"
+},{"productName": "acrobat update service",
+"originalFileName": "armsvc.exe",
+"companyName": "adobe inc.",
+"binProductVersion": "1.824.460.1067",
+"binFileVersion": "1.824.460.1067",
+"path": "%commonprogramfiles(x86)%\\adobe\\arm\\1.0\\armsvc.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{47109d57-d746-4f8b-9618-ed6a17cc922b}",
+"programId": "000059665b1ffe1fa532b119c5b062ab3a3e0000ffff",
+"compatFlags": "4",
+"restoreAction": "RootDirPath|c:\\programdata\\package cache\\{47109d57-d746-4f8b-9618-ed6a17cc922b}",
+"files" : [{"productName": "microsoft visual c++ 2015-2022 redistributable (x86) - 14.40.33810",
+"originalFileName": "vc_redist.x86.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "14.40.33810.0",
+"binFileVersion": "14.40.33810.0",
+"path": "%programdata%\\package cache\\{47109d57-d746-4f8b-9618-ed6a17cc922b}\\vc_redist.x86.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\874D6B1A2BD2AE8FF3594AB704F2A4A3F8342FB5",
+"programId": "0000601f5cf642560d41d694069a432b8c8d0000ffff",
+"compatFlags": "16640",
+"restoreAction": "RootDirPath|c:\\Program Files\\DIFX\\8730326CFC0D32D8",
+"files" : [{"productName": "driver package installer (dpinst)",
+"originalFileName": "dpinst.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "2.1.0.0",
+"binFileVersion": "2.1.0.0",
+"path": "%programfiles%\\difx\\8730326cfc0d32d8\\dpinst_amd64.exe"
+}]
+},{"path": "",
+"programId": "0000616397390c9e208d57f870b0a66897c100000000",
+"compatFlags": "32",
+"restoreAction": "RootDirPath|G:\\VALORANT",
+"files" : []
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\MediaTek SP Driver_is1",
+"programId": "00006312df499fda608b98d26d010fb00d560000ffff",
+"compatFlags": "256",
+"restoreAction": "RootDirPath|C:\\Program Files\\MediaTek\\SP Driver\\",
+"files" : [{"binProductVersion": "0.0.0.0",
+"binFileVersion": "51.52.0.0",
+"path": "%programfiles%\\mediatek\\sp driver\\unins000.exe"
+},{"aumid": "{6D809377-6AF0-444B-8957-A3773F02200E}\\mediatek\\sp driver\\unins000.exe",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\sp driver\\uninstall driver.lnk"
+},{"path": "%programfiles%\\mediatek\\sp driver\\install\\install32.exe"
+},{"path": "%programfiles%\\mediatek\\sp driver\\install\\install64.exe"
+},{"productName": "mediatek log installer",
+"companyName": "mediatek",
+"binProductVersion": "1.12.44.1",
+"binFileVersion": "1.12.44.1",
+"path": "%programfiles%\\mediatek\\sp driver\\tools\\mtk_etw_log.exe"
+},{"productName": "mbim",
+"originalFileName": "mbim",
+"companyName": "mbb",
+"binProductVersion": "2.15.19.0",
+"binFileVersion": "2.15.19.0",
+"path": "%programfiles%\\mediatek\\sp driver\\drv\\mbim\\mtkmbim7_x64.sys"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{56DDDFB8-7F79-4480-89D5-25E1F52AB28F}",
+"programId": "000064debb150df222dd6142a79a8f292c3700000904",
+"compatFlags": "4",
+"restoreAction": "RootDirPath|C:\\Program Files (x86)\\Bonjour\\",
+"files" : [{"path": "%programfiles(x86)%\\bonjour\\bonjour.resources\\en.lproj\\about bonjour.rtf"
+},{"aumid": "{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\bonjour\\bonjour.resources\\en.lproj\\about bonjour.rtf",
+"path": "%programfiles(x86)%\\bonjour\\about bonjour.lnk"
+},{"productName": "bonjour",
+"originalFileName": "dns-sd.exe",
+"companyName": "apple inc.",
+"binProductVersion": "3.1.0.1",
+"binFileVersion": "3.1.0.1",
+"path": "%systemroot%\\syswow64\\dns-sd.exe"
+},{"productName": "bonjour",
+"originalFileName": "mdnsresponder.exe",
+"companyName": "apple inc.",
+"binProductVersion": "3.1.0.1",
+"binFileVersion": "3.1.0.1",
+"path": "%programfiles(x86)%\\bonjour\\mdnsresponder.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Rockstar Games Social Club",
+"programId": "00006eb90bdb919793369f15387ae317eeb50000ffff",
+"compatFlags": "8",
+"restoreAction": "RootDirPath|c:\\program files\\rockstar games\\social club",
+"files" : [{"productName": "social club ui",
+"originalFileName": "socialclubhelper.exe",
+"companyName": "take-two interactive software, inc.",
+"binProductVersion": "2.3.0.8",
+"binFileVersion": "2.3.0.8",
+"path": "%programfiles%\\rockstar games\\social club\\socialclubhelper.exe"
+},{"productName": "rockstar games social club",
+"originalFileName": "rockstar-games-social-club.exe",
+"companyName": "rockstar games inc.",
+"binProductVersion": "2.3.0.8",
+"binFileVersion": "2.3.0.8",
+"path": "%programfiles%\\rockstar games\\social club\\uninstallrgscredistributable.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}",
+"programId": "0000711e471311256b767312386e0ce130360000ffff",
+"compatFlags": "4",
+"restoreAction": "RootDirPath|c:\\programdata\\package cache\\{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}",
+"files" : [{"productName": "microsoft visual c++ 2012 redistributable (x86) - 11.0.61030",
+"originalFileName": "vcredist_x86.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "11.0.61030.0",
+"binFileVersion": "11.0.61030.0",
+"path": "%programdata%\\package cache\\{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}\\vcredist_x86.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{5af95fd8-a22e-458f-acee-c61bd787178e}",
+"programId": "0000766de871c43b77697a2a1b5a15b214550000ffff",
+"compatFlags": "4",
+"restoreAction": "RootDirPath|c:\\programdata\\package cache\\{5af95fd8-a22e-458f-acee-c61bd787178e}",
+"files" : [{"productName": "microsoft visual c++ 2015-2022 redistributable (x64) - 14.40.33810",
+"originalFileName": "vc_redist.x64.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "14.40.33810.0",
+"binFileVersion": "14.40.33810.0",
+"path": "%programdata%\\package cache\\{5af95fd8-a22e-458f-acee-c61bd787178e}\\vc_redist.x64.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{6F87AA02-6D33-428D-B845-4250C13C17F8}",
+"programId": "00007beba6a28896a43b08b0eb0b92b15d2700000904",
+"compatFlags": "0",
+"files" : [{"productName": "mongodb legacy windows 7\/windows server 2008 r2",
+"originalFileName": "mongod.exe",
+"companyName": "mongodb, inc",
+"binProductVersion": "7.0.11.0",
+"binFileVersion": "7.0.11.0",
+"path": "%programfiles%\\mongodb\\server\\7.0\\bin\\mongod.exe"
+},{"productName": "mongodb legacy windows 7\/windows server 2008 r2",
+"originalFileName": "mongos.exe",
+"companyName": "mongodb, inc",
+"binProductVersion": "7.0.11.0",
+"binFileVersion": "7.0.11.0",
+"path": "%programfiles%\\mongodb\\server\\7.0\\bin\\mongos.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\0945c9a5",
+"programId": "00007fd84b266bb32831c3b129b608bde7c60000ffff",
+"compatFlags": "8",
+"restoreAction": "RootDirPath|C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools",
+"files" : [{"aumid": "Microsoft.AutoGenerated.{DC571BEA-D7E6-C3E3-185D-11AC9AF17B4D}",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\visual studio 2019\\visual studio tools\\developer command prompt for vs 2019.lnk"
+},{"aumid": "Microsoft.AutoGenerated.{6B97BCB4-336C-45A8-CD2E-2ECF88D820EE}",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\visual studio 2019\\visual studio tools\\developer powershell for vs 2019.lnk"
+},{"aumid": "Microsoft.AutoGenerated.{FF70D809-A022-5972-850F-19E0AA8C07C2}",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\visual studio 2019\\visual studio tools\\vc\\x64 native tools command prompt for vs 2019.lnk"
+},{"aumid": "Microsoft.AutoGenerated.{F19FC46A-6F24-4DEB-153B-68D242AA0EEF}",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\visual studio 2019\\visual studio tools\\vc\\x64_x86 cross tools command prompt for vs 2019.lnk"
+},{"aumid": "Microsoft.AutoGenerated.{C22C6157-8D44-071B-A914-083F92AA20D0}",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\visual studio 2019\\visual studio tools\\vc\\x86 native tools command prompt for vs 2019.lnk"
+},{"aumid": "Microsoft.AutoGenerated.{1248DF79-8DF1-B616-B28A-9D102F13D20B}",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\visual studio 2019\\visual studio tools\\vc\\x86_x64 cross tools command prompt for vs 2019.lnk"
+},{"productName": "microsoft® visual studio®",
+"originalFileName": "bscmake.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "14.29.30154.0",
+"binFileVersion": "14.29.30154.0",
+"path": "%programfiles(x86)%\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\bin\\hostx64\\x64\\bscmake.exe"
+},{"productName": "microsoft® visual studio®",
+"originalFileName": "cl.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "14.29.30154.0",
+"binFileVersion": "19.29.30154.0",
+"path": "%programfiles(x86)%\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\bin\\hostx86\\x64\\cl.exe"
+},{"productName": "csc",
+"originalFileName": "csc.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "0.0.0.0",
+"binFileVersion": "3.1100.22.10808",
+"path": "%programfiles(x86)%\\microsoft visual studio\\2019\\buildtools\\msbuild\\current\\bin\\roslyn\\csc.exe"
+},{"productName": "csi",
+"originalFileName": "csi.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "0.0.0.0",
+"binFileVersion": "3.1100.22.10808",
+"path": "%programfiles(x86)%\\microsoft visual studio\\2019\\buildtools\\msbuild\\current\\bin\\roslyn\\csi.exe"
+},{"productName": "microsoft® visual studio®",
+"originalFileName": "cvtres.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "14.29.30154.0",
+"binFileVersion": "14.29.30154.0",
+"path": "%programfiles(x86)%\\microsoft visual studio\\2019\\buildtools\\vc\\tools\\msvc\\14.29.30133\\bin\\hostx86\\x86\\cvtres.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{474E5879-A9D5-4DF5-9385-ADF7E224CEC7}",
+"programId": "0000841724c3cac5fd7f1fadab87680b27ae00000904",
+"compatFlags": "0",
+"restoreAction": "AddPlaceholderCustom|FWLINK~2244091;RootDirPath|C:\\ProgramData\\Package Cache\\{474E5879-A9D5-4DF5-9385-ADF7E224CEC7}v3.12.3150.0\\",
+"files" : [{"productName": "python",
+"originalFileName": "pythonw.exe",
+"companyName": "python software foundation",
+"binProductVersion": "3.12.3150.1013",
+"binFileVersion": "3.12.3150.1013",
+"path": "\\python312\\pythonw.exe"
+},{"aumid": "Microsoft.AutoGenerated.{DA53DF9E-B9D5-620D-C1C9-8E3212D987B1}",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\python 3.12\\idle (python 3.12 64-bit).lnk"
+},{"productName": "python",
+"originalFileName": "python.exe",
+"companyName": "python software foundation",
+"binProductVersion": "3.12.3150.1013",
+"binFileVersion": "3.12.3150.1013",
+"path": "\\python312\\python.exe"
+},{"aumid": "C:\\Python312\\python.exe",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\python 3.12\\python 3.12 (64-bit).lnk"
+},{"aumid": "Microsoft.AutoGenerated.{E21962E1-E576-B839-6A05-47EF771FBD9C}",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\python 3.12\\python 3.12 module docs (64-bit).lnk"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{42A8A7FA-251E-42D5-AFAB-3A337F295635}",
+"programId": "000084d69ca36ca8e8ba60838f613dc3f81000000904",
+"compatFlags": "0",
+"restoreAction": "RootDirPath|C:\\Program Files\\MySQL\\MySQL Shell 8.0",
+"files" : [{"productName": "mysql shell",
+"originalFileName": "mysqlsh.exe",
+"companyName": "oracle corporation",
+"binProductVersion": "8.0.38.0",
+"binFileVersion": "8.0.38.0",
+"path": "%programfiles%\\mysql\\mysql shell 8.0\\bin\\mysqlsh.exe"
+},{"aumid": "{6D809377-6AF0-444B-8957-A3773F02200E}\\MySQL\\MySQL Shell 8.0\\bin\\mysqlsh.exe",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\mysql\\mysql shell.lnk"
+},{"productName": "python",
+"originalFileName": "_testembed.exe",
+"companyName": "python software foundation",
+"binProductVersion": "3.12.2150.1013",
+"binFileVersion": "3.12.2150.1013",
+"path": "%programfiles%\\mysql\\mysql shell 8.0\\lib\\python3.12\\lib\\venv\\scripts\\nt\\_testembed.exe"
+},{"productName": "mysql shell",
+"originalFileName": "mysql-secret-store-windows-credential.exe",
+"companyName": "oracle corporation",
+"binProductVersion": "8.0.38.0",
+"binFileVersion": "8.0.38.0",
+"path": "%programfiles%\\mysql\\mysql shell 8.0\\bin\\mysql-secret-store-windows-credential.exe"
+},{"productName": "python",
+"originalFileName": "py.exe",
+"companyName": "python software foundation",
+"binProductVersion": "3.12.2150.1013",
+"binFileVersion": "3.12.2150.1013",
+"path": "%programfiles%\\mysql\\mysql shell 8.0\\lib\\python3.12\\lib\\venv\\scripts\\nt\\py.exe"
+},{"productName": "python",
+"originalFileName": "python.exe",
+"companyName": "python software foundation",
+"binProductVersion": "3.12.2150.1013",
+"binFileVersion": "3.12.2150.1013",
+"path": "%programfiles%\\mysql\\mysql shell 8.0\\lib\\python3.12\\lib\\venv\\scripts\\nt\\python.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F64FA457-4C26-4F0F-912D-19E8CB50CEF1}",
+"programId": "00008885e8ad482c5f989038cd1cac6c6be100000904",
+"compatFlags": "0",
+"restoreAction": "RootDirPath|C:\\Program Files\\MySQL\\MySQL Server 8.0\\",
+"files" : [{"productName": "mysql server",
+"companyName": "oracle corporation",
+"binProductVersion": "8.0.38.0",
+"binFileVersion": "8.0.38.0",
+"path": "%programfiles%\\mysql\\mysql server 8.0\\bin\\mysql.exe"
+},{"aumid": "Microsoft.AutoGenerated.{DF60CA8F-4884-F0EE-090A-264B39A0FD55}",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\mysql\\mysql server 8.0\\mysql 8.0 command line client.lnk"
+},{"aumid": "Microsoft.AutoGenerated.{B6ECABB1-7A68-AC3C-1F61-8F8089041EDD}",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\mysql\\mysql server 8.0\\mysql 8.0 command line client - unicode.lnk"
+},{"productName": "mysql server",
+"companyName": "oracle corporation",
+"binProductVersion": "8.0.38.0",
+"binFileVersion": "8.0.38.0",
+"path": "%programfiles%\\mysql\\mysql server 8.0\\bin\\ibd2sdi.exe"
+},{"productName": "mysql server",
+"companyName": "oracle corporation",
+"binProductVersion": "8.0.38.0",
+"binFileVersion": "8.0.38.0",
+"path": "%programfiles%\\mysql\\mysql server 8.0\\bin\\innochecksum.exe"
+},{"productName": "mysql server",
+"companyName": "oracle corporation",
+"binProductVersion": "8.0.38.0",
+"binFileVersion": "8.0.38.0",
+"path": "%programfiles%\\mysql\\mysql server 8.0\\bin\\lz4_decompress.exe"
+},{"productName": "mysql server",
+"companyName": "oracle corporation",
+"binProductVersion": "8.0.38.0",
+"binFileVersion": "8.0.38.0",
+"path": "%programfiles%\\mysql\\mysql server 8.0\\bin\\my_print_defaults.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{6ED9B8D4-F32E-4C65-A292-0B9DAECEC07F}",
+"programId": "0000903d58055420dc22e7ec002a77b1ca3400000904",
+"compatFlags": "0",
+"files" : [{"productName": "quick share from google",
+"originalFileName": "nearby_share.exe",
+"companyName": "google",
+"binProductVersion": "1.0.1724.0",
+"binFileVersion": "1.0.1724.0",
+"path": "%programfiles%\\google\\nearbyshare\\nearby_share.exe"
+},{"aumid": "Google.NearbyShare",
+"path": "%USERPROFILE%\\appdata\\roaming\\microsoft\\windows\\start menu\\programs\\nearby share from google.lnk"
+},{"aumid": "Google.NearbyShare",
+"path": "%USERPROFILE%\\appdata\\roaming\\microsoft\\internet explorer\\quick launch\\user pinned\\taskbar\\nearby share from google.lnk"
+},{"aumid": "{6D809377-6AF0-444B-8957-A3773F02200E}\\Google\\NearbyShare\\nearby_share.exe",
+"path": "%public%\\desktop\\quick share from google.lnk"
+},{"aumid": "Google.NearbyShare",
+"path": "%USERPROFILE%\\appdata\\roaming\\microsoft\\windows\\start menu\\programs\\quick share from google.lnk"
+},{"path": "%programfiles%\\google\\nearbyshare\\crashpad_handler.exe"
+},{"productName": "intel® proset\/wireless wifi software",
+"originalFileName": "intel_pie_service.exe",
+"companyName": "intel corporation",
+"binProductVersion": "22.1230.0.3",
+"binFileVersion": "22.1230.0.3",
+"path": "%programfiles%\\google\\nearbyshare\\intel\\intel_pie_service.exe"
+},{"path": "%programfiles%\\google\\nearbyshare\\nearby_config.exe"
+},{"productName": "quick share from google",
+"originalFileName": "nearby_share_launcher.exe",
+"companyName": "google",
+"binProductVersion": "1.0.1724.0",
+"binFileVersion": "1.0.1724.0",
+"path": "%programfiles%\\google\\nearbyshare\\nearby_share_launcher.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Git_is1",
+"programId": "000094a30ac9e1fc756cec161818db9e652c0000ffff",
+"compatFlags": "0",
+"restoreAction": "AddPlaceholderCustom|FWLINK~2234158;RootDirPath|C:\\Program Files\\Git\\",
+"files" : [{"productName": "git",
+"originalFileName": "git.exe",
+"companyName": "the git development community",
+"binProductVersion": "2.45.2.1",
+"binFileVersion": "2.45.2.1",
+"path": "%programfiles%\\git\\git-bash.exe"
+},{"aumid": "Microsoft.AutoGenerated.{0FDD9C6B-656B-0F1F-AB08-B1CDBB7067B3}",
+"path": "%public%\\desktop\\git bash.lnk"
+},{"aumid": "Microsoft.AutoGenerated.{0FDD9C6B-656B-0F1F-AB08-B1CDBB7067B3}",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\git\\git bash.lnk"
+},{"productName": "git",
+"originalFileName": "git.exe",
+"companyName": "the git development community",
+"binProductVersion": "2.45.2.1",
+"binFileVersion": "2.45.2.1",
+"path": "%programfiles%\\git\\git-cmd.exe"
+},{"aumid": "Microsoft.AutoGenerated.{29591C0F-7C09-B655-C0EB-8544FCA7D1DE}",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\git\\git cmd.lnk"
+},{"productName": "git",
+"originalFileName": "git.exe",
+"companyName": "the git development community",
+"binProductVersion": "2.45.2.1",
+"binFileVersion": "2.45.2.1",
+"path": "%programfiles%\\git\\cmd\\git-gui.exe"
+},{"aumid": "{6D809377-6AF0-444B-8957-A3773F02200E}\\Git\\cmd\\git-gui.exe",
+"path": "%programdata%\\microsoft\\windows\\start menu\\programs\\git\\git gui.lnk"
+},{"path": "%programfiles%\\git\\usr\\bin\\[.exe"
+},{"path": "%programfiles%\\git\\mingw64\\bin\\adig.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{EF3944FF-2501-4568-B15C-5701E726719E}",
+"programId": "000094e7e6cbcd44a45c5d436cb5131f588c00000904",
+"compatFlags": "16642",
+"files" : [{"productName": "armoury crate uninstall tool",
+"originalFileName": "armoury crate uninstall tool.exe",
+"companyName": "asustek computer inc.",
+"binProductVersion": "2.2.5.0",
+"binFileVersion": "2.2.5.0",
+"path": "%programfiles%\\asus\\armoury crate lite service\\uninstalltoolplugin\\armoury crate uninstall tool.exe"
+},{"productName": "armourycrate.appservicebridge",
+"originalFileName": "armourycrate.appservicebridge.exe",
+"binProductVersion": "1.2.0.0",
+"binFileVersion": "1.2.0.0",
+"path": "%programfiles%\\asus\\armoury crate lite service\\armourycrate.appservicebridge.exe"
+},{"productName": "armoury crate service",
+"originalFileName": "armourycrate.installationinformation.exe",
+"companyName": "asustek computer inc.",
+"binProductVersion": "1.0.0.0",
+"binFileVersion": "1.0.0.0",
+"path": "%programfiles%\\asus\\armoury crate lite service\\armourycrate.installationinformation.exe"
+},{"productName": "armoury crate service",
+"originalFileName": "service.exe",
+"companyName": "asustek computer inc.",
+"binProductVersion": "5.6.5.0",
+"binFileVersion": "5.6.5.0",
+"path": "%programfiles%\\asus\\armoury crate lite service\\armourycrate.service.exe"
+},{"productName": "uinstaller",
+"originalFileName": "armourycrate.uninstaller.exe",
+"binProductVersion": "1.0.3.0",
+"binFileVersion": "1.0.3.0",
+"path": "%programfiles%\\asus\\armoury crate lite service\\armourycrate.uninstaller.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{F9CEF01A-3907-4614-824F-CF5D3E4675EF}",
+"programId": "000095885166a82985f4a579929fc8d61e3000000904",
+"compatFlags": "268",
+"restoreAction": "RootDirPath|C:\\Program Files\\Common Files\\Apple\\Mobile Device Support\\",
+"files" : [{"originalFileName": "applemobilebackup.exe",
+"companyName": "apple inc.",
+"binProductVersion": "0.0.0.0",
+"binFileVersion": "1738.0.0.9",
+"path": "%commonprogramfiles(x86)%\\apple\\mobile device support\\applemobilebackup.exe"
+},{"originalFileName": "applemobiledevicehelper.exe",
+"companyName": "apple inc.",
+"binProductVersion": "0.0.0.0",
+"binFileVersion": "998.0.0.42",
+"path": "%commonprogramfiles(x86)%\\apple\\mobile device support\\applemobiledevicehelper.exe"
+},{"originalFileName": "applemobiledeviceservice.exe",
+"companyName": "apple inc.",
+"binProductVersion": "0.0.0.0",
+"binFileVersion": "486.0.2.23",
+"path": "%commonprogramfiles%\\apple\\mobile device support\\applemobiledeviceservice.exe"
+},{"originalFileName": "applemobilesync.exe",
+"companyName": "apple inc.",
+"binProductVersion": "0.0.0.0",
+"binFileVersion": "998.0.0.42",
+"path": "%commonprogramfiles(x86)%\\apple\\mobile device support\\applemobilesync.exe"
+},{"originalFileName": "applesyncmapiinterfacehelper.exe",
+"companyName": "apple inc.",
+"binProductVersion": "0.0.0.0",
+"binFileVersion": "38.0.0.54",
+"path": "%commonprogramfiles(x86)%\\apple\\mobile device support\\applesyncmapiinterfacehelper_x64.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{5bf96be1-0089-49f7-a574-1ed6dc7dc1b0}",
+"programId": "000096ca38cc55d9603aceb42bfce8323b730000ffff",
+"compatFlags": "16386",
+"restoreAction": "RootDirPath|c:\\programdata\\package cache\\{5bf96be1-0089-49f7-a574-1ed6dc7dc1b0}",
+"files" : [{"productName": "aura service",
+"originalFileName": "auraservicesetup.exe",
+"companyName": "asustek computer inc.",
+"binProductVersion": "3.7.43.0",
+"binFileVersion": "3.7.43.0",
+"path": "%programdata%\\package cache\\{5bf96be1-0089-49f7-a574-1ed6dc7dc1b0}\\auraservicesetup.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\ProjectPro2021Volume - en-us",
+"programId": "0000998fa7896e5dca6b4843932ea9b5a7320000ffff",
+"compatFlags": "0",
+"restoreAction": "AddPlaceholderCustom|FWLINK~2241005;RootDirPath|C:\\Program Files\\Microsoft Office",
+"files" : []
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{5AC9D20F-F065-4ECB-A0A4-EEFAB6A34832}",
+"programId": "0000a1d15d770658e28756da4029d493d89200000904",
+"compatFlags": "4",
+"restoreAction": "RootDirPath|C:\\ProgramData\\Package Cache\\{5AC9D20F-F065-4ECB-A0A4-EEFAB6A34832}v10.1.0.0\\Redistributable\\10.1.0.0\\",
+"files" : []
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\O365ProPlusRetail - en-us",
+"programId": "0000a50f9be469c2bdf57b14ce113f9a6a390000ffff",
+"compatFlags": "0",
+"restoreAction": "AddPlaceholderCustom|FWLINK~2235010;RootDirPath|C:\\Program Files\\Microsoft Office",
+"files" : []
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{8e171961-44e9-48e3-9a1e-7e05e5387200}",
+"programId": "0000a6778444dc7b91f24fbf7ee3a49d57ae0000ffff",
+"compatFlags": "16384",
+"restoreAction": "IntermediateMatchAction|IntelChipset;RootDirPath|c:\\programdata\\package cache\\{8e171961-44e9-48e3-9a1e-7e05e5387200}",
+"files" : [{"productName": "intel(r) chipset device software",
+"originalFileName": "setupchipset.exe",
+"companyName": "intel(r) corporation",
+"binProductVersion": "10.1.19444.8378",
+"binFileVersion": "10.1.19444.8378",
+"path": "%programdata%\\package cache\\{8e171961-44e9-48e3-9a1e-7e05e5387200}\\setupchipset.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{4591faf1-a2db-4a3d-bfda-aa5a4ebb1587}",
+"programId": "0000a7454e92a48b8e4e8e033590043804a70000ffff",
+"compatFlags": "4",
+"restoreAction": "RootDirPath|c:\\programdata\\package cache\\{4591faf1-a2db-4a3d-bfda-aa5a4ebb1587}",
+"files" : [{"productName": "windows software development kit - windows 10.0.19041.685",
+"originalFileName": "winsdksetup.exe
